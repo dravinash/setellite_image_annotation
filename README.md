@@ -1,1 +1,1 @@
-# setellite_image_annotation
+# Semantic Segmentation in Satellite Images
